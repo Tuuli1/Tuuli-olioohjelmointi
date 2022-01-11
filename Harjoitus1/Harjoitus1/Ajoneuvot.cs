@@ -22,10 +22,12 @@ namespace Harjoitus1
 
         }
 
-        //public string ToString()
-        //{
+        public string ToString()
+        {
+            string merkkijono = "Ajoneuvo Nimi: " + Nimi + ", Nopeus: " + Nopeus + "km/h. Renkaat: " + Renkaat + " kpl.";
+            return merkkijono;
 
-        //}
+        }
 
 
     }

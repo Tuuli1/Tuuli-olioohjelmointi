@@ -17,6 +17,19 @@ namespace Harjoitus1
 
             //Käytetään auto olion toimintoja
             auto.TulostaData();
+
+            string autonTiedot = auto.ToString();
+            Console.WriteLine(autonTiedot);
+
+            Console.WriteLine();
+
+            Ajoneuvot mopo = new Ajoneuvot();
+            mopo.Nimi = "Skootteri";
+            mopo.Nopeus = 55;
+            mopo.Renkaat = 2;
+
+            mopo.TulostaData();
+            Console.Write(mopo.ToString());
         }
     }
 }
