@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Harjoitus6_Eläimet/1.0.0": {
+        "runtime": {
+          "Harjoitus6_Eläimet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Harjoitus6_Eläimet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

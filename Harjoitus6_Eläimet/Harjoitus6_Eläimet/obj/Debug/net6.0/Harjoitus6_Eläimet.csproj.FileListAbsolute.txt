@@ -1,0 +1,15 @@
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus6_Eläimet\Harjoitus6_Eläimet\bin\Debug\net6.0\Harjoitus6_Eläimet.exe
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus6_Eläimet\Harjoitus6_Eläimet\bin\Debug\net6.0\Harjoitus6_Eläimet.deps.json
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus6_Eläimet\Harjoitus6_Eläimet\bin\Debug\net6.0\Harjoitus6_Eläimet.runtimeconfig.json
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus6_Eläimet\Harjoitus6_Eläimet\bin\Debug\net6.0\Harjoitus6_Eläimet.dll
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus6_Eläimet\Harjoitus6_Eläimet\bin\Debug\net6.0\ref\Harjoitus6_Eläimet.dll
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus6_Eläimet\Harjoitus6_Eläimet\bin\Debug\net6.0\Harjoitus6_Eläimet.pdb
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus6_Eläimet\Harjoitus6_Eläimet\obj\Debug\net6.0\Harjoitus6_Eläimet.csproj.AssemblyReference.cache
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus6_Eläimet\Harjoitus6_Eläimet\obj\Debug\net6.0\Harjoitus6_Eläimet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus6_Eläimet\Harjoitus6_Eläimet\obj\Debug\net6.0\Harjoitus6_Eläimet.AssemblyInfoInputs.cache
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus6_Eläimet\Harjoitus6_Eläimet\obj\Debug\net6.0\Harjoitus6_Eläimet.AssemblyInfo.cs
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus6_Eläimet\Harjoitus6_Eläimet\obj\Debug\net6.0\Harjoitus6_Eläimet.csproj.CoreCompileInputs.cache
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus6_Eläimet\Harjoitus6_Eläimet\obj\Debug\net6.0\Harjoitus6_Eläimet.dll
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus6_Eläimet\Harjoitus6_Eläimet\obj\Debug\net6.0\ref\Harjoitus6_Eläimet.dll
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus6_Eläimet\Harjoitus6_Eläimet\obj\Debug\net6.0\Harjoitus6_Eläimet.pdb
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus6_Eläimet\Harjoitus6_Eläimet\obj\Debug\net6.0\Harjoitus6_Eläimet.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus3KT\Harjoitus3KT\bin\Debug\net6.0\Harjoitus3KT.exe
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus3KT\Harjoitus3KT\bin\Debug\net6.0\Harjoitus3KT.deps.json
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus3KT\Harjoitus3KT\bin\Debug\net6.0\Harjoitus3KT.runtimeconfig.json
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus3KT\Harjoitus3KT\bin\Debug\net6.0\Harjoitus3KT.dll
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus3KT\Harjoitus3KT\bin\Debug\net6.0\ref\Harjoitus3KT.dll
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus3KT\Harjoitus3KT\bin\Debug\net6.0\Harjoitus3KT.pdb
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus3KT\Harjoitus3KT\obj\Debug\net6.0\Harjoitus3KT.csproj.AssemblyReference.cache
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus3KT\Harjoitus3KT\obj\Debug\net6.0\Harjoitus3KT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus3KT\Harjoitus3KT\obj\Debug\net6.0\Harjoitus3KT.AssemblyInfoInputs.cache
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus3KT\Harjoitus3KT\obj\Debug\net6.0\Harjoitus3KT.AssemblyInfo.cs
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus3KT\Harjoitus3KT\obj\Debug\net6.0\Harjoitus3KT.csproj.CoreCompileInputs.cache
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus3KT\Harjoitus3KT\obj\Debug\net6.0\Harjoitus3KT.dll
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus3KT\Harjoitus3KT\obj\Debug\net6.0\ref\Harjoitus3KT.dll
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus3KT\Harjoitus3KT\obj\Debug\net6.0\Harjoitus3KT.pdb
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus3KT\Harjoitus3KT\obj\Debug\net6.0\Harjoitus3KT.genruntimeconfig.cache
