@@ -17,9 +17,9 @@ namespace harjoitus4
             Kesto = kesto;
         }
 
-        public void getData()
+        public void GetData()
         {
-            Console.WriteLine("Nimi" + Nimi + "Kesto" + Kesto);
+            Console.WriteLine("Nimi: " + Nimi + " Kesto: " + Kesto);
         }
 
         //public string getData()

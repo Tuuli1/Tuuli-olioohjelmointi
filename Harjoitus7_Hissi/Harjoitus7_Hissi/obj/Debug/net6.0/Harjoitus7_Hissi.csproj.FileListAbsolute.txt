@@ -1,0 +1,15 @@
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus7_Hissi\Harjoitus7_Hissi\bin\Debug\net6.0\Harjoitus7_Hissi.exe
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus7_Hissi\Harjoitus7_Hissi\bin\Debug\net6.0\Harjoitus7_Hissi.deps.json
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus7_Hissi\Harjoitus7_Hissi\bin\Debug\net6.0\Harjoitus7_Hissi.runtimeconfig.json
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus7_Hissi\Harjoitus7_Hissi\bin\Debug\net6.0\Harjoitus7_Hissi.dll
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus7_Hissi\Harjoitus7_Hissi\bin\Debug\net6.0\ref\Harjoitus7_Hissi.dll
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus7_Hissi\Harjoitus7_Hissi\bin\Debug\net6.0\Harjoitus7_Hissi.pdb
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus7_Hissi\Harjoitus7_Hissi\obj\Debug\net6.0\Harjoitus7_Hissi.csproj.AssemblyReference.cache
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus7_Hissi\Harjoitus7_Hissi\obj\Debug\net6.0\Harjoitus7_Hissi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus7_Hissi\Harjoitus7_Hissi\obj\Debug\net6.0\Harjoitus7_Hissi.AssemblyInfoInputs.cache
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus7_Hissi\Harjoitus7_Hissi\obj\Debug\net6.0\Harjoitus7_Hissi.AssemblyInfo.cs
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus7_Hissi\Harjoitus7_Hissi\obj\Debug\net6.0\Harjoitus7_Hissi.csproj.CoreCompileInputs.cache
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus7_Hissi\Harjoitus7_Hissi\obj\Debug\net6.0\Harjoitus7_Hissi.dll
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus7_Hissi\Harjoitus7_Hissi\obj\Debug\net6.0\ref\Harjoitus7_Hissi.dll
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus7_Hissi\Harjoitus7_Hissi\obj\Debug\net6.0\Harjoitus7_Hissi.pdb
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus7_Hissi\Harjoitus7_Hissi\obj\Debug\net6.0\Harjoitus7_Hissi.genruntimeconfig.cache

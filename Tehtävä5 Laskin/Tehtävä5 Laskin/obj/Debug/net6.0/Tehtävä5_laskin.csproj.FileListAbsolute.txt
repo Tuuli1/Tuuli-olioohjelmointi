@@ -1,0 +1,15 @@
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Tehtävä5 Laskin\Tehtävä5 Laskin\bin\Debug\net6.0\Tehtävä5_laskin.exe
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Tehtävä5 Laskin\Tehtävä5 Laskin\bin\Debug\net6.0\Tehtävä5_laskin.deps.json
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Tehtävä5 Laskin\Tehtävä5 Laskin\bin\Debug\net6.0\Tehtävä5_laskin.runtimeconfig.json
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Tehtävä5 Laskin\Tehtävä5 Laskin\bin\Debug\net6.0\Tehtävä5_laskin.dll
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Tehtävä5 Laskin\Tehtävä5 Laskin\bin\Debug\net6.0\ref\Tehtävä5_laskin.dll
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Tehtävä5 Laskin\Tehtävä5 Laskin\bin\Debug\net6.0\Tehtävä5_laskin.pdb
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Tehtävä5 Laskin\Tehtävä5 Laskin\obj\Debug\net6.0\Tehtävä5_laskin.csproj.AssemblyReference.cache
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Tehtävä5 Laskin\Tehtävä5 Laskin\obj\Debug\net6.0\Tehtävä5_laskin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Tehtävä5 Laskin\Tehtävä5 Laskin\obj\Debug\net6.0\Tehtävä5_laskin.AssemblyInfoInputs.cache
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Tehtävä5 Laskin\Tehtävä5 Laskin\obj\Debug\net6.0\Tehtävä5_laskin.AssemblyInfo.cs
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Tehtävä5 Laskin\Tehtävä5 Laskin\obj\Debug\net6.0\Tehtävä5_laskin.csproj.CoreCompileInputs.cache
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Tehtävä5 Laskin\Tehtävä5 Laskin\obj\Debug\net6.0\Tehtävä5_laskin.dll
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Tehtävä5 Laskin\Tehtävä5 Laskin\obj\Debug\net6.0\ref\Tehtävä5_laskin.dll
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Tehtävä5 Laskin\Tehtävä5 Laskin\obj\Debug\net6.0\Tehtävä5_laskin.pdb
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Tehtävä5 Laskin\Tehtävä5 Laskin\obj\Debug\net6.0\Tehtävä5_laskin.genruntimeconfig.cache

@@ -31,7 +31,7 @@ namespace harjoitus4
         {
             foreach (Kappale kappale in Kappaleet)
             {
-                kappale.getData();
+                kappale.GetData();
             }
         }
 
@@ -45,7 +45,8 @@ namespace harjoitus4
             Console.WriteLine("-Hinta: " + Hinta);
             
             Console.WriteLine("-Kappaleet: ");
-            getData();
+            TulostaKappaleet();
+            
            
            
 

@@ -1,0 +1,15 @@
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus8_tyontekijajapomo\Harjoitus8_tyontekijajapomo\bin\Debug\net6.0\Harjoitus8_tyontekijajapomo.exe
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus8_tyontekijajapomo\Harjoitus8_tyontekijajapomo\bin\Debug\net6.0\Harjoitus8_tyontekijajapomo.deps.json
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus8_tyontekijajapomo\Harjoitus8_tyontekijajapomo\bin\Debug\net6.0\Harjoitus8_tyontekijajapomo.runtimeconfig.json
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus8_tyontekijajapomo\Harjoitus8_tyontekijajapomo\bin\Debug\net6.0\Harjoitus8_tyontekijajapomo.dll
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus8_tyontekijajapomo\Harjoitus8_tyontekijajapomo\bin\Debug\net6.0\ref\Harjoitus8_tyontekijajapomo.dll
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus8_tyontekijajapomo\Harjoitus8_tyontekijajapomo\bin\Debug\net6.0\Harjoitus8_tyontekijajapomo.pdb
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus8_tyontekijajapomo\Harjoitus8_tyontekijajapomo\obj\Debug\net6.0\Harjoitus8_tyontekijajapomo.csproj.AssemblyReference.cache
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus8_tyontekijajapomo\Harjoitus8_tyontekijajapomo\obj\Debug\net6.0\Harjoitus8_tyontekijajapomo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus8_tyontekijajapomo\Harjoitus8_tyontekijajapomo\obj\Debug\net6.0\Harjoitus8_tyontekijajapomo.AssemblyInfoInputs.cache
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus8_tyontekijajapomo\Harjoitus8_tyontekijajapomo\obj\Debug\net6.0\Harjoitus8_tyontekijajapomo.AssemblyInfo.cs
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus8_tyontekijajapomo\Harjoitus8_tyontekijajapomo\obj\Debug\net6.0\Harjoitus8_tyontekijajapomo.csproj.CoreCompileInputs.cache
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus8_tyontekijajapomo\Harjoitus8_tyontekijajapomo\obj\Debug\net6.0\Harjoitus8_tyontekijajapomo.dll
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus8_tyontekijajapomo\Harjoitus8_tyontekijajapomo\obj\Debug\net6.0\ref\Harjoitus8_tyontekijajapomo.dll
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus8_tyontekijajapomo\Harjoitus8_tyontekijajapomo\obj\Debug\net6.0\Harjoitus8_tyontekijajapomo.pdb
+C:\Users\tuuli.hermalahti\source\repos\Tuuli1\Tuuli-olioohjelmointi\Harjoitus8_tyontekijajapomo\Harjoitus8_tyontekijajapomo\obj\Debug\net6.0\Harjoitus8_tyontekijajapomo.genruntimeconfig.cache

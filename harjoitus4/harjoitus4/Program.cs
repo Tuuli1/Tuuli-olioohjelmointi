@@ -17,7 +17,7 @@ namespace harjoitus4
 
 
             opiskelija1.TulostaData();
-
+            
           // List<Kappale> kappale1 = new List<Kappale>();
           // kappale1.Add(new Kappale());
            //kappale1[0].Kappale = "Next to me";
